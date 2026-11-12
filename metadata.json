@@ -1,0 +1,6 @@
+{
+  "name": "Bande Santé Studio",
+  "description": "استوديو احترافي لتصميم وتخصيص البوند سانتي والأشرطة الطبية بالذكاء الاصطناعي والإملاء الصوتي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
